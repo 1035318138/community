@@ -6,8 +6,6 @@ import com.example.entity.Community;
 import com.example.entity.PageInfo;
 import com.example.mapper.CommunityMapper;
 import com.example.service.CommunityService;
-import com.example.service.UserService;
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -18,10 +16,9 @@ import java.util.List;
  * @Date ：2022/8/22 10:48
  */
 @Service
-@AllArgsConstructor
 public class CommunityServiceImpl implements CommunityService {
 
-    private final UserService userService;
+
 
     @Autowired
     private CommunityMapper communityMapper;

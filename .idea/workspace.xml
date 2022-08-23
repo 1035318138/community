@@ -3,8 +3,68 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa32191b-b16e-47c2-b90f-2242cca27dc9" name="Changes" comment="" />
+    <list default="true" id="aa32191b-b16e-47c2-b90f-2242cca27dc9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_22_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_22_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/community.iml" beforeDir="false" afterPath="$PROJECT_DIR$/community.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/entity/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Community.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/Impl/CommunityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/Impl/CommunityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/CommunityApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/CommunityApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/CommunityApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/config/Swagger2Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/CommunityContoller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Community$CommunityBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Community.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/PageInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Result$ResultBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/mapper/CommunityMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/CommunityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Impl/CommunityServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vo/CommunityVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vo/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/CommunityApplicationTests.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +74,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
         <option value="XML File.xml" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -55,15 +120,17 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$MAVEN_REPOSITORY$" />
-        <option name="mavenHome" value="D:\java\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
-        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.8.2/conf/settings.xml" />
+        <option name="mavenHome" value="D:\java\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2DgsiXm4nNZO8usESPbbITCgcaH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -76,39 +143,43 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/com/example" />
     <property name="project.structure.last.edited" value="库" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.18586642" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/example/entity" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/example/vo" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/example/config" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myself_project\community\src\test\resources\com\example" />
+      <recent name="D:\myself_project\community\src\test\java\com\example" />
+      <recent name="D:\myself_project\community\src\test\resources" />
+      <recent name="D:\myself_project\community\src" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/entity" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example" />
       <recent name="com.example.vo" />
       <recent name="com.example.form" />
       <recent name="com.example.service.Impl" />
       <recent name="com.example.mapper" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CommunityApplication">
+  <component name="RunManager" selected="JUnit.CommunityApplicationTests.queryList1">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -203,10 +274,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CommunityApplication" />
         <item itemvalue="JUnit.CommunityApplicationTests.queryList1" />
-        <item itemvalue="JUnit.CommunityApplicationTests (1)" />
+        <item itemvalue="Application.CommunityApplication" />
         <item itemvalue="JUnit.CommunityApplicationTests" />
+        <item itemvalue="JUnit.CommunityApplicationTests (1)" />
         <item itemvalue="JUnit.CommunityApplicationTests (5)" />
       </list>
     </recent_temporary>
@@ -224,56 +295,128 @@
       <workItem from="1661153634707" duration="6227000" />
       <workItem from="1661160360618" duration="25375000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1661223346021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661223346021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1661223390996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661223390996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="RESTFUL风格fix">
+      <created>1661225575054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661225575054</updated>
+    </task>
+    <task id="LOCAL-00004" summary="swagger修复">
+      <created>1661225589940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661225589940</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="1" />
+    <MESSAGE value="RESTFUL风格fix" />
+    <MESSAGE value="swagger修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="swagger修复" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1663" height="300" key="GridCell.Tab.0.bottom" timestamp="1661222001693">
+    <state x="659" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1661236362867">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001693" />
-    <state width="1663" height="300" key="GridCell.Tab.0.center" timestamp="1661222001686">
+    <state x="659" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661236362867" />
+    <state x="634" y="215" key="FileChooserDialogImpl" timestamp="1661233596252">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001686" />
-    <state width="1663" height="300" key="GridCell.Tab.0.left" timestamp="1661222001681">
+    <state x="634" y="215" key="FileChooserDialogImpl/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661233596252" />
+    <state width="1663" height="234" key="GridCell.Tab.0.bottom" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001681" />
-    <state width="1663" height="300" key="GridCell.Tab.0.right" timestamp="1661222001692">
+    <state width="1663" height="234" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.0.center" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001692" />
-    <state width="1663" height="300" key="GridCell.Tab.1.bottom" timestamp="1661222001695">
+    <state width="1663" height="234" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.0.left" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001695" />
-    <state width="1663" height="300" key="GridCell.Tab.1.center" timestamp="1661222001694">
+    <state width="1663" height="234" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.0.right" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001694" />
-    <state width="1663" height="300" key="GridCell.Tab.1.left" timestamp="1661222001694">
+    <state width="1663" height="234" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.1.bottom" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001694" />
-    <state width="1663" height="300" key="GridCell.Tab.1.right" timestamp="1661222001694">
+    <state width="1663" height="234" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.1.center" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661222001694" />
-    <state x="355" y="105" key="SettingsEditor" timestamp="1661221494135">
+    <state width="1663" height="234" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.1.left" timestamp="1661238738125">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="355" y="105" key="SettingsEditor/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661221494135" />
+    <state width="1663" height="234" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.1.right" timestamp="1661238738125">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="234" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state x="355" y="105" key="SettingsEditor" timestamp="1661233599145">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="105" key="SettingsEditor/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661233599145" />
+    <state x="446" y="193" key="Vcs.Push.Dialog.v2" timestamp="1661226042447">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661226042447" />
+    <state x="662" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661232954760">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="662" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661232954760" />
+    <state x="370" y="225" width="605" height="594" key="find.popup" timestamp="1661225332264">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="370" y="225" width="605" height="594" key="find.popup/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661225332264" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1661234735972">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661234735972" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/example/CommunityApplicationTests.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="5" />
+          <line>29</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -281,5 +424,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/community$CommunityApplicationTests_queryList1.ic" NAME="CommunityApplicationTests.queryList1 Coverage Results" MODIFIED="1661236420272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
