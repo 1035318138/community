@@ -37,33 +37,14 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_22_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_25_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/community.iml" beforeDir="false" afterPath="$PROJECT_DIR$/community.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/entity/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/entity/Community.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/Impl/CommunityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/Impl/CommunityServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/CommunityApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/CommunityApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/CommunityApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/config/Swagger2Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/CommunityContoller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/BaseEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Community$CommunityBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Community.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/PageInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Result$ResultBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/mapper/CommunityMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/CommunityService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Impl/CommunityServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vo/CommunityVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vo/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/CommunityApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/CommunityApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/CommunityApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/CommunityContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/CommunityContoller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Community$CommunityBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Community$CommunityBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/entity/Community.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/entity/Community.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Impl/CommunityServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/Impl/CommunityServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/CommunityApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/CommunityApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661225589940</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="单测">
+      <created>1661238898322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661238898322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +334,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="RESTFUL风格fix" />
     <MESSAGE value="swagger修复" />
-    <option name="LAST_COMMIT_MESSAGE" value="swagger修复" />
+    <MESSAGE value="单测" />
+    <option name="LAST_COMMIT_MESSAGE" value="单测" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1661236362867">
@@ -357,50 +346,50 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="634" y="215" key="FileChooserDialogImpl/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661233596252" />
-    <state width="1663" height="234" key="GridCell.Tab.0.bottom" timestamp="1661238738125">
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1661239326186">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.0.center" timestamp="1661238738125">
+    <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326186" />
+    <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1661239326186">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.0.left" timestamp="1661238738125">
+    <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326186" />
+    <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1661239326186">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.0.right" timestamp="1661238738125">
+    <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326186" />
+    <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1661239326186">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.1.bottom" timestamp="1661238738125">
+    <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326186" />
+    <state width="1663" height="234" key="GridCell.Tab.1.bottom" timestamp="1661239326184">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.1.center" timestamp="1661238738125">
+    <state width="1663" height="234" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326184" />
+    <state width="1663" height="234" key="GridCell.Tab.1.center" timestamp="1661239326184">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.1.left" timestamp="1661238738125">
+    <state width="1663" height="234" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326184" />
+    <state width="1663" height="234" key="GridCell.Tab.1.left" timestamp="1661239326184">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
-    <state width="1663" height="234" key="GridCell.Tab.1.right" timestamp="1661238738125">
+    <state width="1663" height="234" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326184" />
+    <state width="1663" height="234" key="GridCell.Tab.1.right" timestamp="1661239326184">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="234" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661238738125" />
+    <state width="1663" height="234" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239326184" />
     <state x="355" y="105" key="SettingsEditor" timestamp="1661233599145">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="355" y="105" key="SettingsEditor/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661233599145" />
-    <state x="446" y="193" key="Vcs.Push.Dialog.v2" timestamp="1661226042447">
+    <state x="446" y="193" key="Vcs.Push.Dialog.v2" timestamp="1661239271721">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661226042447" />
-    <state x="662" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661232954760">
+    <state x="446" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239271721" />
+    <state x="662" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1661239234031">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="662" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661232954760" />
+    <state x="662" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1661239234031" />
     <state x="370" y="225" width="605" height="594" key="find.popup" timestamp="1661225332264">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
