@@ -2,13 +2,17 @@ package com.example.entity;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * @author ：mac
  * @Date ：2022/8/22 09:57
  */
+@AllArgsConstructor
+@NoArgsConstructor
 @Builder
 @Data
 @ApiModel(value = "小区")
