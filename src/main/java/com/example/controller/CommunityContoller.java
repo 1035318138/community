@@ -23,16 +23,16 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  */
 @RestController
 @RequestMapping(path = "community")
-@Api(tags = "小区相关接口",description = "小区接口，提供小区信息的增、删、改、查")
+@Api(tags = "小区相关接口",value = "小区接口，提供小区信息的增、删、改、查")
 @AllArgsConstructor
 @EnableSwagger2
 public class CommunityContoller {
 
     private final CommunityService communityService;
 
-    @GetMapping("/listAllCommunity")
+    @RequestMapping(method = RequestMethod.GET, path = "listAllCommunity")
     @ApiOperation("小区查询接口")
-    @ApiImplicitParam(value = "查询小区信息且分页", name = "communityPage", required = true ,paramType = "query", dataType = "String")
+    @ApiImplicitParam(value = "查询小区信息且分页", name = "communityPage", required = true, paramType = "query", dataType = "String")
     public R<Page<Community>> listAllCommunity(@RequestBody
                                                @ApiParam("分页+小区") PageInfo<Community> communityPage) {
         return R.ok(communityService.getPage(communityPage));
@@ -54,7 +54,7 @@ public class CommunityContoller {
         return R.ok("新增成功");
     }*/
 
-    @PostMapping("saveOrUpdate")
+    @RequestMapping(method = RequestMethod.POST, path = "saveOrUpdate")
     @ApiOperation("新增小区接口")
     @ApiImplicitParam(value = "新增小区内容信息", name = "community", paramType = "body", dataType = "String")
     public R<String> saveOrUpdate(@RequestBody @Validated @PathVariable("community") Community community) {
